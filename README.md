@@ -1,21 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        ★  WELCOME TO MASHAAX'S REALM  ★                     ║
-║                                                              ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-║   ░                                                      ░   ║
-║   ░   ▄█████▄   ░   HERO CLASS : Game Developer          ░   ║
-║   ░   █ ◉ ◉ █   ░   LEVEL      : Always Leveling Up      ░   ║
-║   ░   █  ▲  █   ░   GUILD      : Open Source             ░   ║
-║   ░   ▀█████▀   ░   STATUS     : [ ⚔️  Coding... ]       ░   ║
-║   ░                                                      ░   ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MashaaX&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Game%20Developer%20%E2%80%94%20Building%20Worlds%20from%20Code&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -23,133 +8,114 @@
 
 <div align="center">
 
-## 📜 QUEST LOG — *About Me*
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  > A game developer on a quest to build worlds          │
-│    from scratch — one commit at a time.                 │
-│                                                         │
-│  > I craft gameplay systems, pixel-perfect UIs,         │
-│    and the kind of code that makes players smile.       │
-│                                                         │
-│  > When not slaying bugs, I'm probably designing        │
-│    mechanics or deep in a rabbit hole of game jams.     │
-│                                                         │
-│  > My final boss? Ship a game people actually love.     │
-└─────────────────────────────────────────────────────────┘
-```
+### 👾 About Me
 
 </div>
 
----
+I'm a **game developer** passionate about crafting immersive experiences — from core gameplay systems and physics to UI/UX and level design. I enjoy the full creative loop: designing, building, and shipping games that feel great to play.
 
-## ⚔️ SKILL TREE
-
-```
-COMBAT SKILLS (Languages)
-─────────────────────────────────────────────────────
-  ⚡ Python          ████████████████░░░░  80%   [MASTERED]
-  ⚡ JavaScript      ███████████████░░░░░  75%   [ADVANCED]
-  ⚡ C#              █████████████░░░░░░░  65%   [SKILLED]
-  ⚡ GDScript        ████████████░░░░░░░░  60%   [SKILLED]
-  ⚡ C++             █████████░░░░░░░░░░░  45%   [LEARNING]
-
-MAGIC SPELLS (Frameworks & Engines)
-─────────────────────────────────────────────────────
-  🔮 Godot Engine    ████████████████░░░░  EQUIPPED
-  🔮 Unity           █████████████░░░░░░░  EQUIPPED
-  🔮 Pygame          ███████████████░░░░░  EQUIPPED
-  🔮 React           ██████████░░░░░░░░░░  IN INVENTORY
-
-PASSIVE ABILITIES
-─────────────────────────────────────────────────────
-  🛡  Game Design       ✅  UNLOCKED
-  🛡  Pixel Art         ✅  UNLOCKED
-  🛡  Level Design      ✅  UNLOCKED
-  🛡  Sound Intuition   ✅  UNLOCKED
-  🛡  Git & Version Control ✅  UNLOCKED
-```
-
----
-
-## 🗺️ DUNGEON MAP — *Featured Projects*
-
-```
-  ╔════════════╗     ╔════════════╗     ╔════════════╗
-  ║  PROJECT   ║     ║  PROJECT   ║     ║  PROJECT   ║
-  ║    [1]     ║     ║    [2]     ║     ║    [3]     ║
-  ║            ║     ║            ║     ║            ║
-  ║ ⚔️ BOSS LV ║     ║ 🧩 PUZZLE  ║     ║ 🏰 WORLD   ║
-  ║   GAME     ║     ║   ENGINE   ║     ║ BUILDER    ║
-  ║            ║     ║            ║     ║            ║
-  ║ [EXPLORE]  ║     ║ [EXPLORE]  ║     ║ [EXPLORE]  ║
-  ╚════════════╝     ╚════════════╝     ╚════════════╝
-         │                 │                  │
-         └─────────────────┴──────────────────┘
-                           │
-                   📍 YOU ARE HERE
-```
-
-> 🔗 *Pin your best repos and they'll appear here like treasure chests waiting to be opened!*
-
----
-
-## 📊 HERO STATS
-
-<div align="center">
-
-![MashaaX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MashaaX&show_icons=true&theme=gruvbox&title_color=f0c040&icon_color=f0c040&text_color=d4c5a9&bg_color=1a1a2e&border_color=f0c040&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MashaaX&layout=compact&theme=gruvbox&title_color=f0c040&text_color=d4c5a9&bg_color=1a1a2e&border_color=f0c040)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MashaaX&theme=gruvbox&background=1a1a2e&border=f0c040&ring=f0c040&fire=ff6b35&currStreakLabel=f0c040&sideLabels=d4c5a9&dates=d4c5a9)
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENT BOARD
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                  🏅 ACHIEVEMENTS UNLOCKED                ║
-╠══════════════════════════════════════════════════════════╣
-║  🥇  [ FIRST COMMIT ]    — The journey begins...        ║
-║  🥇  [ BUG SLAYER ]      — Fixed bugs nobody else saw   ║
-║  🥇  [ GAME JAM WARRIOR ]— Survived a 48hr game jam     ║
-║  🥇  [ OPEN SOURCE ALLY ]— Contributed to the realm     ║
-║  🔒  [ SHIPPED IT ]      — Released a real game         ║  ← next goal
-║  🔒  [ 1K STARS ]        — The legend grows...          ║  ← one day
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🌐 FIND ME IN THE OVERWORLD
-
-```
-  [ GitHub ]   → github.com/MashaaX
-  [ Twitter ]  → @MashaaX              ← swap in your handle
-  [ itch.io ]  → mashaax.itch.io       ← if you have one!
-  [ Discord ]  → MashaaX#0000          ← swap in your tag
-```
+- 🎮 &nbsp; Focused on **game development** with Godot & Unity
+- 🧠 &nbsp; Currently deepening my knowledge in **game architecture & engine internals**
+- 🛠️ &nbsp; I enjoy contributing to **open source** tools in the gamedev space
+- 🌱 &nbsp; Always learning — currently exploring **procedural generation** and **shader programming**
+- 📫 &nbsp; Reach me at: `your@email.com`
 
 ---
 
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                    ▓
-▓   "Not all those who wander are lost —             ▓
-▓    some are just looking for the next save point." ▓
-▓                                                    ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+### 🧰 Tech Stack
 
-        Thanks for visiting — ★ PRESS START ★
-```
+</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MashaaX&color=f0c040&style=pixel&label=VISITORS)
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+**Engines & Frameworks**
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MashaaX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashaaX&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MashaaX&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=38bdae&dates=38bdae" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 Featured Projects
+
+</div>
+
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| 🏰 **[Project Name](#)** | A short punchy description of what this game does or solves | `Godot` `GDScript` | ✅ Shipped |
+| ⚔️ **[Project Name](#)** | A short punchy description of what this game does or solves | `Unity` `C#` | 🚧 In Progress |
+| 🧩 **[Project Name](#)** | A short punchy description of what this game does or solves | `Python` `Pygame` | ✅ Shipped |
+
+> Replace these with your actual pinned repos!
+
+---
+
+<div align="center">
+
+### 📈 Activity Graph
+
+[![MashaaX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MashaaX&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MashaaX)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MashaaX)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MashaaX)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mashaax.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MashaaX)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MashaaX&color=70a5fd&style=flat-square&label=Profile+Views)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
