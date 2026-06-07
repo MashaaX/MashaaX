@@ -83,9 +83,9 @@ I'm a **game developer** passionate about crafting immersive experiences — fro
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| 🏰 **[Project Name](#)** | A short punchy description of what this game does or solves | `Godot` `GDScript` | ✅ Shipped |
-| ⚔️ **[Project Name](#)** | A short punchy description of what this game does or solves | `Unity` `C#` | 🚧 In Progress |
-| 🧩 **[Project Name](#)** | A short punchy description of what this game does or solves | `Python` `Pygame` | ✅ Shipped |
+| 🏰 **[Unannounced](#)** | A short punchy description of what this game does or solves | `Godot` `GDScript` | ✅ Shipped |
+| ⚔️ **[Inertia Showdown](#)** | A short punchy description of what this game does or solves | `Unity` `C#` | 🚧 In Progress |
+| 🧩 **[Unannounced](#)** | A short punchy description of what this game does or solves | `Python` `Pygame` | ✅ Shipped |
 
 > Replace these with your actual pinned repos!
 
