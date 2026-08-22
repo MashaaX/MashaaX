@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b1a,100:1a1625&height=220&section=header&text=Herlangga%20Satria%20Mulia&fontSize=42&fontColor=f0a030&animation=fadeIn&fontAlignY=38&desc=Game%20Designer%20%C2%B7%20Audio%20Engineer%20%C2%B7%20Composer&descAlignY=55&descSize=18&descColor=e0d8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b1a,100:1a1625&height=220&section=header&text=Herlangga%20Satria%20Mulia&fontSize=42&fontColor=f0a030&animation=fadeIn&fontAlignY=38&desc=Game%20Designer%20%C2%B7%20Audio%20Engineer%20%C2%B7%20QA&descAlignY=55&descSize=18&descColor=e0d8f0" width="100%"/>
 
 <a href="https://www.rianherlangga.web.id">
   <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=22&duration=3000&pause=1000&color=F0A030&center=true&vCenter=true&width=650&lines=Building+worlds+one+system+at+a+time;Game+Design+%C3%97+Audio+Engineering+%C3%97+QA;East+Java%2C+Indonesia+%F0%9F%8E%AE;Freelancing+%2F%2F+Open+to+full-time+roles" alt="Typing SVG" />
